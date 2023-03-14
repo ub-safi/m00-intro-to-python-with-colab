@@ -44,7 +44,9 @@ Upon completion of this course, you will be able to:
 
 ## Upcoming Sessions
 
-- TBA
+**September 2023 (1 day)**
+- 11.09.2023
+- from 9am to 5pm (CET time)
 
 <!-- LINKS -->
 [1]: https://www.python.org/about/ 'About Python'
