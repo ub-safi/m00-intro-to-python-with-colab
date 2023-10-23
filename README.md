@@ -43,7 +43,10 @@ Upon completion of this course, you will be able to:
 
 
 ## Upcoming Sessions
-- TBA
+
+**March 2024 (1 day)**
+- 05.03.2024
+- from 9am to 5pm (CET time)
 
 
 
