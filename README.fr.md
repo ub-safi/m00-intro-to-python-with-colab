@@ -11,7 +11,11 @@ Learn [Python][1] programming language using Google [Colab][2]. Whether you have
 
 
 ## PUBLIC CONCERNÉ
-The course is intended for professional Engineers, Project Managers, Data Analysts and Computer Scientists with responsibilities in new product design, planning.
+Ce cours de Python est destiné aux débutants qui souhaitent apprendre Python à l’aide de Google Colab.
+
+Il est destiné aux ingénieurs professionnels, aux chefs de projet, aux analystes de données et aux informaticiens ayant des responsabilités dans la conception de nouveaux produits, la planification.
+
+Que vous n’ayez jamais programmé auparavant, que vous connaissiez déjà la syntaxe de base ou que vous souhaitiez découvrir les fonctionnalités avancées de Python, ce cours est fait pour vous.
 
 
 
@@ -38,11 +42,11 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## SUIVI ET EVALUATION
-- Attendance sheet signed each half day by the participants and co-signed by ASTE
-- Learning assessment based on:
-    - individual or group presentation with argument on a mini-project
-- Training performance: qualitative assessment of the training by attendants at the end of the session
-- Delivery of a training certificate
+- Feuille d’émargement signée chaque demi-journée par le stagiaire et cosignée par l’ASTE
+- Évaluation de l’apprentissage basée sur :
+    - une présentation individuelle ou en groupe avec argumentation sur un mini projet
+- Évaluation de la formation par les participants
+- Remise d’une attestation de formation
 
 
 
