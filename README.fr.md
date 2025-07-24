@@ -1,12 +1,12 @@
 # M00 "Introduction to Python with Google Colab"
 
-Learn [Python][1] programming language using Google [Colab][2]. Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you. Our goal is to bring you up to speed with Python as quickly as possible so you can build programmes that work – basic functions, file handling, and data exploration – while developing a foundation in programming that will serve you well in your workplace.
+<!--Learn [Python][1] programming language using Google [Colab][2]. Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you. Our goal is to bring you up to speed with Python as quickly as possible so you can build programmes that work – basic functions, file handling, and data exploration – while developing a foundation in programming that will serve you well in your workplace.-->
 
-> ***What is Colaboratory?***
+> ***Qu'est-ce que Colaboratory ?***
 > 
-> *« Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing access free of charge to computing resources including GPUs. »*
+> *« Colab est un service hébergé de notebooks Jupyter qui ne nécessite aucune configuration et qui permet d'accéder sans frais à des ressources informatiques, y compris des GPU et des TPU. Colab est particulièrement adapté au machine learning, à la data science et à l'enseignement. »*
 > 
-> *https://research.google.com/colaboratory/faq.html*
+> *https://research.google.com/colaboratory/intl/fr/faq.html*
 
 
 
@@ -62,45 +62,46 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## OBJECTIFS DE LA FORMATION
-Assume you are new to Python and its tools for data discovery. You get to know that there are many python tools for Data Exploration: Matplotlib, Seaborn, Pandas, Numpy, Plotly, etc.
+Supposons que vous soyez novice en matière de Python et de ses outils d’exploitation de données. Vous apprenez qu’il existe de nombreux outils python pour l’exploration des données : Matplotlib, Seaborn, Pandas, Numpy, Plotly, etc.
 
-Which one should you use? How to use it? This broad availability itself has created confusion. The objective of this Module is to clear that confusion and walk you through Python syntax basics and data exploration tools.
+Lequel devez-vous utiliser ? Comment les utiliser ? Cette large disponibilité a elle-même créé de la confusion. L’objectif de ce module est de dissiper cette confusion et de vous guider à travers les bases de la syntaxe Python et les outils d’exploration de données.
 
-Upon completion of this module, the participant will be able to:
-- Run Python codes on Google Colab.
-- Understand Python language fundamentals, including basic syntax, variables, and types.
-- Create and manipulate different data structures Python can handle, such as Lists, Dictionaries, sets, and Tuples.
-- Use Python control and loops statements.
-- Define functions in Python and reuse them.
-- Use built-in functions in Python such as ZIP, MAP, and lambda.
-- Learn about various date time manipulation solutions in Python.
-- Read, write and manipulate files in Python.
-- Use basic and advanced data analysis tools such as Numpy and Pandas.
-- Create informative visualization with Matplotlib and Seaborn.
-- Learn how to solve real-world data analysis problems by working on a mini-project.
+A l’issue de ce module, le participant sera capable de :
+- Exécuter des codes Python sur Google Colab.
+- Comprendre les principes fondamentaux du langage Python, notamment la syntaxe de base, les variables et les types.
+- Créer et manipuler différentes structures de données que Python peut gérer, comme les listes, les dictionnaires, les ensembles et les tuples.
+- Utiliser les instructions de contrôle et les boucles Python.
+- Définir des fonctions en Python et les réutiliser.
+- Utiliser les fonctions intégrées de Python telles que ZIP, MAP et lambda.
+- Apprendre les différentes solutions de manipulation de la date et de l’heure en Python.
+- Lire, écrire et manipuler des fichiers en Python.
+- Utiliser des outils d’analyse de données basiques et avancés tels que Numpy et Pandas.
+- Créer des visualisations informatives avec Matplotlib et Seaborn.
+- Apprendre à résoudre des problèmes d’analyse de données du monde réel en travaillant sur un mini-projet.
+- Avoir un regard critique sur les résultats d’essais.
 
 
 
 ## PROGRAMME
-The goal of this course is to bring you up to speed with Python as quickly as possible so you can build programs that work—basic functions, file handling, and data exploration—while developing a foundation in programming that will serve you well in your workplace.
+L’objectif de ce cours est de vous permettre de vous familiariser avec Python aussi rapidement que possible afin que vous puissiez créer des programmes qui fonctionnent – fonctions de base, manipulation de fichiers et exploration de données – tout en développant des bases de programmation qui vous seront utiles dans votre travail.
 
-Python with Google Colab module is for anyone including who have never before programmed in Python.
+<!-- Python with Google Colab module is for anyone including who have never before programmed in Python. -->
 
-This course is for those who want to learn the basics of programming quickly to focus on exciting projects and those who like to test their understanding of new concepts by solving meaningful problems.
+Ce cours s’adresse à ceux qui veulent apprendre rapidement les bases de la programmation pour se concentrer sur des projets passionnants et à ceux qui aiment tester leur compréhension de nouveaux concepts en résolvant des problèmes significatifs.
 
-### Fundamentals
-- Basic programming concepts you need to know to write Python programs.
-- Basic data types (Containers, Lists, Dictionaries, Sets, Tuples).
-- Define functions.
+### Notions de base
+- Concepts de base de la programmation que vous devez connaître pour écrire des programmes Python.
+- Types de données de base (Containers, Lists, Dictionnaires, Sets, Tuples)
+- Définition des fonctions.
 
-### Data Exploration
-- Data exploration using Numpy and Pandas
+### Exploration des données
+- Exploration de données à l’aide de Numpy et Pandas.
 
-### Data visualization
-- Data visualization using Matplotlib, and Seaborn.
+### Visualisation de données
+- Visualisation de données à l’aide de Matplotlib et Seaborn.
 
-### Mini Project
-- Strengthening the delivered concepts through application to a relevant mini-project
+### Mini-Projet
+- Renforcement des concepts enseignés par l’application à un mini-projet pertinent.
 
 
 
